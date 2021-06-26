@@ -7,6 +7,7 @@
 [java]: https://www.java.com/en/download/manual.jsp
 [faq]: /welcome/faq.md
 [client]: /welcome/client.md
+[map]: https://mc.pixmoew.com/burnsky
 
 # Tender House :id=get-started
 
@@ -14,7 +15,7 @@
 
 ----
 
-📖[常见问题][faq] | ☁️[下载页面][downloadpage] | 🎮[问题反馈][issues] | 🐧[加入QQ交流群][qqgroup] | [开黑啦 服务器][kaiheila] | [🌍实时地图][map]
+📖[常见问题][faq] | 🐧[加入QQ交流群][qqgroup] | [开黑啦 服务器][kaiheila] | [🌍实时地图][map]
 
 ----
 
@@ -33,6 +34,12 @@
 ## 加入游戏 :id=join-us
 
 ?> 加入我们的服务器很简单！你只需一个 *游戏账号* 和 *最新版本的客户端* (｀・ω・´)
+
+
+### 0 下载客户端
+
+- [直接下载 | 速度可能会比较慢](https://uploader.pixmeow.com/qxtsw5kbxb5y.zip) `v2.4`
+- [Q群里面下载][qqgroup]
 
 ### 1 注册账号
 
