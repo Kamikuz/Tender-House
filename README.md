@@ -8,11 +8,9 @@
 [faq]: /welcome/faq.md
 [client]: /welcome/client.md
 
-# Sakura | 樱 :id=get-started
+# Tender House :id=get-started
 
-> PIX CRAFT · 樱
-
-本网站并不是针对 Minecraft 游戏本身的知识库，它主要介绍「亚特兰斯物语 Minecraft 服务器」的特色内容。如果你想了解游戏本身的内容与玩法，请访问：🔗[Minecraft 百科][mcwiki]。如果是刚接触这款游戏，可以参考：🍰[菜鸟手册][beginner-guide]。
+本网站用于介绍 Tender House 服务器玩法，规则以及一些问题帮助而设立的。同时提供一些有用的服务器知识以及教程。
 
 ----
 
